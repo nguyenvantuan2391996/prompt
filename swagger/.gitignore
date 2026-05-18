@@ -1,0 +1,8 @@
+.idea
+__pycache__
+docker/
+volumes/
+venv
+src/env/search-api/local.sh
+env/
+.env
